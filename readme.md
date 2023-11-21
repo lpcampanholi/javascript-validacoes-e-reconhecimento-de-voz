@@ -1,0 +1,1 @@
+Projeto realizado no Curso "JavaScript: validações e reconhecimento de voz"
