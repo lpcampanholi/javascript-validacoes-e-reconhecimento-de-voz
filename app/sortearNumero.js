@@ -1,5 +1,5 @@
-const menorValor = 10;
-const maiorValor = 500;
+const menorValor = 1;
+const maiorValor = 1000;
 //parseInt(Math.random() * 1000
 const numeroSecreto = gerarNumeroAleatorio();
 

@@ -46,3 +46,17 @@ h3 {
     margin: 20px;
     display: inline-block;
 }
+
+.btn-jogar {
+    background-color: transparent;
+    border: 1.5px solid var(--primary-color);
+    color: var(--primary-color);
+    margin-top: 2em;
+    padding: 1em;
+}
+
+.btn-jogar:hover {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    transition: all 0.3s ease;
+}
